@@ -1,5 +1,3 @@
-2CHECK make a readme
-
 # Just Another Text Editor
 
 ## License
@@ -13,25 +11,20 @@ ps://opensource.org/licenses/None)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contribution](#contribution)
-- [Testing](#testing)
 - [Questions](#questions)
 
 ## Description
-This is a simple progressive web application that can be installed on your de
-vice.
+This is a simple text editing progressive web application that can be installed on your device.
 
 ## Installation
-In order to install this application,
+In order to install this application, hit the button that says install and follow the instructions. It will then be accessible on your device even while offline!
 
 ## Usage
-To use this application,
+Use this application the same as you would any notepad or text editor function.
 
 ## Contribution
 To contribute please contact the author, Vincent, with the contact informatio
 n listed at the bottom of the README
-
-## Testing
-
 
 ## Questions
 Here is my [GitHub account](https://github.com/VPVelthuizen).
